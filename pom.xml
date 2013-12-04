@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.datanucleus</groupId>
+  <artifactId>datanucleus-accessplatform-maven-skin</artifactId>
+  <version>3.3</version>
+  <name>DataNucleus AccessPlatform Maven2 skin</name>
+  <description>Skin for DataNucleus AccessPlatform site</description>
+</project>
