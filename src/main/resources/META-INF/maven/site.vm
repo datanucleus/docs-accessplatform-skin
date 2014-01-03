@@ -364,12 +364,12 @@ function loadPage(list)
             <option value="${relativePath}/jdo/metadata_xml.html">JDO - XML Metadata</option>
             <option value="${relativePath}/jdo/annotations.html">JDO - Annotations</option>
             <option value="${relativePath}/jdo/metadata_api.html">JDO - MetaData API</option>
-            <option value="${relativePath}/guides/jdo/tutorial_rdbms.html">JDO - Tutorial</option>
+            <option value="${relativePath}/jdo/guides/tutorial_rdbms.html">JDO - Tutorial</option>
             <option value="http://db.apache.org/jdo/api30/apidocs/index.html">JDO - Javadocs</option>
             <option value="${relativePath}/jpa/api.html">JPA API</option>
             <option value="${relativePath}/jpa/metadata_xml.html">JPA - XML Metadata</option>
             <option value="${relativePath}/jpa/annotations.html">JPA - Annotations</option>
-            <option value="${relativePath}/guides/jpa/tutorial_rdbms.html">JPA - Tutorial</option>
+            <option value="${relativePath}/jpa/guides/tutorial_rdbms.html">JPA - Tutorial</option>
             <option value="http://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html">JPA - Javadocs</option>
             <option value="${relativePath}/persistence_properties.html">Persistence Properties</option>
             </select>
