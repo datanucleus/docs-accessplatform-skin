@@ -412,6 +412,7 @@ function loadPage(list)
     <li><a href="${relativePath}/datastores/xml.html">XML</a></li>
     <li><a href="${relativePath}/datastores/hbase.html">HBase</a></li>
     <li><a href="${relativePath}/datastores/mongodb.html">MongoDB</a></li>
+    <li><a href="${relativePath}/datastores/cassandra.html">Cassandra</a></li>
     <li><a href="${relativePath}/datastores/appengine.html">Google AppEngine/Datastore</a></li>
     <li><a href="${relativePath}/datastores/neo4j.html">Neo4j</a></li>
     <li><a href="${relativePath}/datastores/json.html">JSON</a></li>
