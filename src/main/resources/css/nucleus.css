@@ -101,7 +101,7 @@ th.on {background:#9c9;}
 /** Source code */
 .source 
 {
-    background-color: #c3ede6;
+    background-color: #c9f1ea;
     padding: 12px;
     margin: 1em 7px 1em 7px;
     border: 1px solid #278c7a;
@@ -218,28 +218,28 @@ table.bodyTable th, table.bodyTable td
 
 table.bodyTable tr.a
 {
-    background-color: #e9ebff;
+    background-color: #e2f8f4;
     border: 0px;
     margin: 0px;
 }
 
 table.bodyTable tr.b
 {
-    background-color: #e1e3ff;
+    background-color: #ceeae5;
     border: 0px;
     margin: 0px;
 }
 
 table.bodyTable tr.c
 {
-    background-color: #ffcccc;
+    background-color: #cbe0dc;
     border: 0px;
     margin: 0px;
 }
 
 table.bodyTable tr.d
 {
-    background-color: #bdd3d8;
+    background-color: #dce7e5;
     border: 0px;
     margin: 0px;
 }
