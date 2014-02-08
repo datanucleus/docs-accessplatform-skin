@@ -101,10 +101,10 @@ th.on {background:#9c9;}
 /** Source code */
 .source 
 {
-    background-color: #b2e7de;
+    background-color: #c3ede6;
     padding: 12px;
     margin: 1em 7px 1em 7px;
-    border: 1px solid #999;
+    border: 1px solid #278c7a;
     font-size: 12px;
 }
 .source pre
