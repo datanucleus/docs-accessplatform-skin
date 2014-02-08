@@ -285,7 +285,7 @@
     <script type="text/javascript">
 function SearchDataNucleusDocs(current)
 {
-    current.q.value="site:www.datanucleus.org/products/accessplatform_3_3/ " + current.qfront.value
+    current.q.value="site:www.datanucleus.org/products/accessplatform_4_0/ " + current.qfront.value
 }
 function loadPage(list)
 {
@@ -309,12 +309,6 @@ function loadPage(list)
   </head>
 
   <body class="composite">
-    #set ( $categoryStart = $headContent.indexOf("category") )
-    #set ( $contentStart = $headContent.indexOf("content", $categoryStart) )
-    #set ( $contentPos1 = $headContent.indexOf('"', $contentStart) +1)
-    #set ( $contentPos2 = $headContent.indexOf('"', $contentPos1) )
-    #set ( $pageCategory = $StringUtils.substring($headContent, $contentPos1, $contentPos2) )
-    ## Make use of pageCategory in deciding which menus to use
 
     <div id="header">
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -342,7 +336,7 @@ function loadPage(list)
         <!-- AccessPlatform version header, search, and "links" section of navigation.xml -->
         <tr>
           <td valign="middle" align="left" nowrap="true" width="100%">
-          <b>DataNucleus AccessPlatform 4.0 Documentation</b>
+          <b>DataNucleus AccessPlatform ${project.version} Documentation</b>
           </td>
           <td valign="middle" align="center" nowrap="true">
           <form action="http://www.google.com/search" method="get" onSubmit="SearchDataNucleusDocs(this)">
