@@ -342,7 +342,7 @@ function loadPage(list)
         <!-- AccessPlatform version header, search, and "links" section of navigation.xml -->
         <tr>
           <td valign="middle" align="left" nowrap="true" width="100%">
-          <b>DataNucleus AccessPlatform 3.3 Documentation</b>
+          <b>DataNucleus AccessPlatform 4.0 Documentation</b>
           </td>
           <td valign="middle" align="center" nowrap="true">
           <form action="http://www.google.com/search" method="get" onSubmit="SearchDataNucleusDocs(this)">
