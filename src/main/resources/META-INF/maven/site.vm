@@ -517,6 +517,8 @@ function loadPage(list)
       <li><a href="${relativePath}/logging.html">Logging</a></li>
       <li><a href="${relativePath}/jdo/maven.html">Maven with DataNucleus</a></li>
       <li><a href="${relativePath}/jdo/guides/eclipse.html">Eclipse with DataNucleus</a></li>
+      <li><a href="${relativePath}/jdo/guides/idea.html">IDEA with DataNucleus</a></li>
+      <li><a href="${relativePath}/jdo/guides/netbeans.html">Netbeans with DataNucleus</a></li>
       <li><a href="${relativePath}/jdo/guides/tutorial_rdbms.html">Tutorial with RDBMS</a></li>
       <li><a href="${relativePath}/jdo/guides/tutorial_odf.html">Tutorial with ODF</a></li>
       <li><a href="${relativePath}/jdo/guides/tutorial_excel.html">Tutorial with Excel</a></li>
@@ -617,6 +619,8 @@ function loadPage(list)
       <li><a href="${relativePath}/logging.html">Logging</a></li>
       <li><a href="${relativePath}/jpa/maven.html">Maven with DataNucleus</a></li>
       <li><a href="${relativePath}/jpa/guides/eclipse.html">Eclipse with DataNucleus</a></li>
+      <li><a href="${relativePath}/jpa/guides/idea.html">IDEA with DataNucleus</a></li>
+      <li><a href="${relativePath}/jpa/guides/netbeans.html">Netbeans with DataNucleus</a></li>
       <li><a href="${relativePath}/jpa/guides/tutorial_rdbms.html">Tutorial with RDBMS</a></li>
       <li><a href="${relativePath}/jpa/guides/tutorial_odf.html">Tutorial with ODF</a></li>
       <li><a href="${relativePath}/jpa/guides/tutorial_excel.html">Tutorial with Excel</a></li>
@@ -628,14 +632,6 @@ function loadPage(list)
     </ul></li>
   </ul></li>
   <li><a href="${relativePath}/rest/api.html">REST API</a></li>
-  <li><a class="dir" href="${relativePath}/guides/index.html">Guides</a>
-  <ul>
-    <li><a href="${relativePath}/guides/idea/index.html">Use with IDEA</a></li>
-    <li><a href="${relativePath}/guides/netbeans/index.html">Use with Netbeans</a></li>
-    <li><a href="${relativePath}/guides/ivy/antivy.html">Use with Ivy</a></li>
-    <li><a href="${relativePath}/guides/ant/enhancingwithant.html">Enhancing with Ant</a></li>
-    <li><a href="${relativePath}/guides/jobfilter/index.html">Jobfilter - JDO/JPA web app</a></li>
-  </ul></li>
 </ul>
           </td>
         </tr>
