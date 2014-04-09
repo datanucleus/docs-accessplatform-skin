@@ -280,7 +280,7 @@
     <link rel="stylesheet" href="${relativePath}/css/nucleus.css" type="text/css"/>
     <link rel="stylesheet" href="${relativePath}/css/dropdown.css" type="text/css" media="screen"/>
     <link rel="stylesheet" href="$relativePath/css/print.css" type="text/css" media="print"/>
-    <meta name="keywords" content="DataNucleus, Java, Persistence, JDO, JPA, ORM, RDBMS, XML, LDAP, AppEngine, BigTable, HBase, MongoDB, Neo4j"/>
+    <meta name="keywords" content="DataNucleus, Java, Persistence, JDO, JPA, ORM, RDBMS, XML, LDAP, Cassandra, BigTable, HBase, MongoDB, Neo4j"/>
     <meta http-equiv="Content-Type" content="text/html; charset=${outputEncoding}"/>
     <script type="text/javascript">
 function SearchDataNucleusDocs(current)
@@ -407,7 +407,6 @@ function loadPage(list)
     <li><a href="${relativePath}/datastores/hbase.html">HBase</a></li>
     <li><a href="${relativePath}/datastores/mongodb.html">MongoDB</a></li>
     <li><a href="${relativePath}/datastores/cassandra.html">Cassandra</a></li>
-    <li><a href="${relativePath}/datastores/appengine.html">Google AppEngine/Datastore</a></li>
     <li><a href="${relativePath}/datastores/neo4j.html">Neo4j</a></li>
     <li><a href="${relativePath}/datastores/json.html">JSON</a></li>
     <li><a href="${relativePath}/datastores/amazons3.html">Amazon S3</a></li>
