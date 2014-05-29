@@ -627,6 +627,7 @@ function loadPage(list)
       <li><a href="${relativePath}/jpa/guides/tutorial_hbase.html">Tutorial with HBase</a></li>
       <li><a href="${relativePath}/jpa/guides/tutorial_neo4j.html">Tutorial with Neo4J</a></li>
       <li><a href="${relativePath}/jpa/guides/eclipse_dali.html">Eclipse Dali</a></li>
+      <li><a href="${relativePath}/jpa/guides/tomee.html">TomEE and DataNucleus</a></li>
       <li><a href="http://www.theserverside.com/tutorial/Slingshot-Yourself-Into-DataNucleus-21-and-JPA-20-with-this-Tutorial-for-RDBMS">JPA Tutorial (TheServerSide)</a></li>
     </ul></li>
   </ul></li>
