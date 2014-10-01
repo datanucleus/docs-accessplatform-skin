@@ -617,9 +617,9 @@ function loadPage(list)
     <li><a class="dir" href="${relativePath}/jpa/query.html">Query API</a>
     <ul>
       <li><a href="${relativePath}/jpa/query_cache.html">Query Cache</a></li>
-      <li><a href="${relativePath}/jpa/jpql.html">JPQL</a></li>
+      <li><a href="${relativePath}/jpa/jpql.html">JPQL Query</a></li>
       <li><a href="${relativePath}/jpa/jpql_criteria.html">JPQL Criteria</a></li>
-      <li><a href="${relativePath}/jpa/native_query.html">Native</a></li>
+      <li><a href="${relativePath}/jpa/native_query.html">Native Query</a></li>
       <li><a href="${relativePath}/jpa/stored_procedures.html">Stored Procedures</a></li>
     </ul></li>
     <li><a class="dir" href="${relativePath}/jpa/guides/guides.html">Guides</a>
