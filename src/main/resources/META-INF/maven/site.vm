@@ -285,7 +285,7 @@
     <script type="text/javascript">
 function SearchDataNucleusDocs(current)
 {
-    current.q.value="site:www.datanucleus.org/products/accessplatform_4_0/ " + current.qfront.value
+    current.q.value="site:www.datanucleus.org/products/accessplatform_4_1/ " + current.qfront.value
 }
 function loadPage(list)
 {
