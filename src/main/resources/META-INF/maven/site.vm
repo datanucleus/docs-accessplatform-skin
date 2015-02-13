@@ -340,9 +340,6 @@ function loadPage(list)
           <td valign="top" width="66" height="30">
               <a href="http://issues.datanucleus.org"><img src="http://www.datanucleus.org/images/navigation/nav_issues.png" border="0"/></a>
           </td>
-          <td valign="top" width="53" height="30">
-              <a href="http://wiki.datanucleus.org"><img src="http://www.datanucleus.org/images/navigation/nav_wiki.png" border="0"/></a>
-          </td>
           <td valign="top" width="56" height="30">
               <a href="http://datanucleus.blogspot.com"><img src="http://www.datanucleus.org/images/navigation/nav_blog.png" border="0"/></a>
           </td>
