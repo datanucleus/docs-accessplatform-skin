@@ -516,7 +516,7 @@ function loadPage(list)
       <li><a href="${relativePath}/jdo/stored_procedures.html">Stored Procedures</a></li>
       <li><a href="${relativePath}/jdo/jpql.html">JPQL</a></li>
     </ul></li>
-    <li><a class="dir" href="${relativePath}/jdo/guides/guides.html">Guides</a>
+    <li><a class="dir" href="${relativePath}/jdo/guides/guides.html">Development Guides</a>
     <ul>
       <li><a href="${relativePath}/jdo/replication.html">Datastore Replication</a></li>
       <li><a href="${relativePath}/jdo/j2ee.html">JavaEE Environments</a></li>
@@ -530,19 +530,22 @@ function loadPage(list)
       <li><a href="${relativePath}/jdo/guides/eclipse.html">Eclipse with DataNucleus</a></li>
       <li><a href="${relativePath}/jdo/guides/idea.html">IDEA with DataNucleus</a></li>
       <li><a href="${relativePath}/jdo/guides/netbeans.html">Netbeans with DataNucleus</a></li>
-      <li><a href="${relativePath}/jdo/guides/tutorial_rdbms.html">Tutorial with RDBMS</a></li>
-      <li><a href="${relativePath}/jdo/guides/tutorial_odf.html">Tutorial with ODF</a></li>
-      <li><a href="${relativePath}/jdo/guides/tutorial_excel.html">Tutorial with Excel</a></li>
-      <li><a href="${relativePath}/jdo/guides/tutorial_mongodb.html">Tutorial with MongoDB</a></li>
-      <li><a href="${relativePath}/jdo/guides/tutorial_hbase.html">Tutorial with HBase</a></li>
-      <li><a href="${relativePath}/jdo/guides/tutorial_neo4j.html">Tutorial with Neo4J</a></li>
-      <li><a href="${relativePath}/jdo/guides/tutorial_cassandra.html">Tutorial with Cassandra</a></li>
-      <li><a href="${relativePath}/jdo/guides/one_to_many_bi_fk.html">1-N Bidir FK Relation</a></li>
-      <li><a href="${relativePath}/jdo/guides/one_to_many_bi_join.html">1-N Bidir Join Relation</a></li>
-      <li><a href="${relativePath}/jdo/guides/many_to_many.html">M-N Relation</a></li>
-      <li><a href="${relativePath}/jdo/guides/many_to_many_attributed.html">M-N Attributed Relation</a></li>
-      <li><a href="${relativePath}/jdo/guides/spatial_tutorial.html">Spatial Types Tutorial</a></li>
       <li><a href="${relativePath}/jdo/guides/daolayer_design.html">DAO Layer Design</a></li>
+    </ul></li>
+    <li><a class="dir" href="${relativePath}/jdo/samples/index.html">Samples</a>
+    <ul>
+      <li><a href="${relativePath}/jdo/samples/tutorial_rdbms.html">Tutorial with RDBMS</a></li>
+      <li><a href="${relativePath}/jdo/samples/tutorial_odf.html">Tutorial with ODF</a></li>
+      <li><a href="${relativePath}/jdo/samples/tutorial_excel.html">Tutorial with Excel</a></li>
+      <li><a href="${relativePath}/jdo/samples/tutorial_mongodb.html">Tutorial with MongoDB</a></li>
+      <li><a href="${relativePath}/jdo/samples/tutorial_hbase.html">Tutorial with HBase</a></li>
+      <li><a href="${relativePath}/jdo/samples/tutorial_neo4j.html">Tutorial with Neo4J</a></li>
+      <li><a href="${relativePath}/jdo/samples/tutorial_cassandra.html">Tutorial with Cassandra</a></li>
+      <li><a href="${relativePath}/jdo/samples/one_to_many_bi_fk.html">1-N Bidir FK Relation</a></li>
+      <li><a href="${relativePath}/jdo/samples/one_to_many_bi_join.html">1-N Bidir Join Relation</a></li>
+      <li><a href="${relativePath}/jdo/samples/many_to_many.html">M-N Relation</a></li>
+      <li><a href="${relativePath}/jdo/samples/many_to_many_attributed.html">M-N Attributed Relation</a></li>
+      <li><a href="${relativePath}/jdo/samples/spatial_tutorial.html">Spatial Types Tutorial</a></li>
     </ul></li>
   </ul></li>
   <li><a class="dir" href="${relativePath}/jpa/api.html">JPA API</a>
@@ -619,7 +622,7 @@ function loadPage(list)
       <li><a href="${relativePath}/jpa/native_query.html">Native Query</a></li>
       <li><a href="${relativePath}/jpa/stored_procedures.html">Stored Procedures</a></li>
     </ul></li>
-    <li><a class="dir" href="${relativePath}/jpa/guides/guides.html">Guides</a>
+    <li><a class="dir" href="${relativePath}/jpa/guides/guides.html">Development Guides</a>
     <ul>
       <li><a href="${relativePath}/jpa/replication.html">Datastore Replication</a></li>
       <li><a href="${relativePath}/jpa/javaee.html">JavaEE Environments</a></li>
@@ -633,15 +636,18 @@ function loadPage(list)
       <li><a href="${relativePath}/jpa/guides/eclipse.html">Eclipse with DataNucleus</a></li>
       <li><a href="${relativePath}/jpa/guides/idea.html">IDEA with DataNucleus</a></li>
       <li><a href="${relativePath}/jpa/guides/netbeans.html">Netbeans with DataNucleus</a></li>
-      <li><a href="${relativePath}/jpa/guides/tutorial_rdbms.html">Tutorial with RDBMS</a></li>
-      <li><a href="${relativePath}/jpa/guides/tutorial_odf.html">Tutorial with ODF</a></li>
-      <li><a href="${relativePath}/jpa/guides/tutorial_excel.html">Tutorial with Excel</a></li>
-      <li><a href="${relativePath}/jpa/guides/tutorial_mongodb.html">Tutorial with MongoDB</a></li>
-      <li><a href="${relativePath}/jpa/guides/tutorial_hbase.html">Tutorial with HBase</a></li>
-      <li><a href="${relativePath}/jpa/guides/tutorial_neo4j.html">Tutorial with Neo4J</a></li>
-      <li><a href="${relativePath}/jpa/guides/tutorial_cassandra.html">Tutorial with Cassandra</a></li>
       <li><a href="${relativePath}/jpa/guides/eclipse_dali.html">Eclipse Dali</a></li>
       <li><a href="${relativePath}/jpa/guides/tomee.html">TomEE and DataNucleus</a></li>
+    </ul></li>
+    <li><a class="dir" href="${relativePath}/jpa/samples/index.html">Samples</a>
+    <ul>
+      <li><a href="${relativePath}/jpa/samples/tutorial_rdbms.html">Tutorial with RDBMS</a></li>
+      <li><a href="${relativePath}/jpa/samples/tutorial_odf.html">Tutorial with ODF</a></li>
+      <li><a href="${relativePath}/jpa/samples/tutorial_excel.html">Tutorial with Excel</a></li>
+      <li><a href="${relativePath}/jpa/samples/tutorial_mongodb.html">Tutorial with MongoDB</a></li>
+      <li><a href="${relativePath}/jpa/samples/tutorial_hbase.html">Tutorial with HBase</a></li>
+      <li><a href="${relativePath}/jpa/samples/tutorial_neo4j.html">Tutorial with Neo4J</a></li>
+      <li><a href="${relativePath}/jpa/samples/tutorial_cassandra.html">Tutorial with Cassandra</a></li>
       <li><a href="http://www.theserverside.com/tutorial/Slingshot-Yourself-Into-DataNucleus-21-and-JPA-20-with-this-Tutorial-for-RDBMS">JPA Tutorial (TheServerSide)</a></li>
     </ul></li>
   </ul></li>
