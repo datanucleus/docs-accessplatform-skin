@@ -466,7 +466,6 @@ function loadPage(list)
         </ul></li>
         <li><a href="${relativePath}/jdo/orm/many_to_one.html">N-to-1 Relations</a></li>
         <li><a href="${relativePath}/jdo/orm/many_to_many.html">M-to-N Relations</a></li>
-        <li><a href="${relativePath}/jdo/orm/relationships.html">Managing Relationships</a></li>
         <li><a href="${relativePath}/jdo/orm/cascading.html">Cascading</a></li>
         <li><a href="${relativePath}/orm_relationships.html">ORM Relationships</a></li>
       </ul></li>
@@ -498,6 +497,7 @@ function loadPage(list)
     </ul></li>
     <li><a class="dir" href="${relativePath}/jdo/pm.html">PersistenceManager</a>
     <ul>
+      <li><a href="${relativePath}/jdo/orm/relationships.html">Managing Relationships</a></li>
       <li><a href="${relativePath}/jdo/pmproxy.html">PM Proxy</a></li>
       <li><a href="${relativePath}/jdo/object_lifecycle.html">Object Lifecycle</a></li>
       <li><a href="${relativePath}/jdo/lifecycle_callbacks.html">Lifecycle Callbacks</a></li>
@@ -580,7 +580,6 @@ function loadPage(list)
         </ul></li>
         <li><a href="${relativePath}/jpa/orm/many_to_one.html">N-to-1 Relations</a></li>
         <li><a href="${relativePath}/jpa/orm/many_to_many.html">M-to-N Relations</a></li>
-        <li><a href="${relativePath}/jpa/orm/relationships.html">Managing Relationships</a></li>
         <li><a href="${relativePath}/jpa/orm/cascading.html">Cascading</a></li>
         <li><a href="${relativePath}/orm_relationships.html">ORM Relationships</a></li>
       </ul></li>
@@ -608,6 +607,7 @@ function loadPage(list)
     </ul></li>
     <li><a class="dir" href="${relativePath}/jpa/em.html">Entity Manager</a>
     <ul>
+      <li><a href="${relativePath}/jpa/orm/relationships.html">Managing Relationships</a></li>
       <li><a href="${relativePath}/jpa/object_lifecycle.html">Object Lifecycle</a></li>
       <li><a href="${relativePath}/jpa/lifecycle_callbacks.html">Lifecycle Callbacks</a></li>
       <li><a href="${relativePath}/jpa/datastore_connection.html">Datastore Connection</a></li>
