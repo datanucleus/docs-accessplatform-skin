@@ -467,7 +467,6 @@ function loadPage(list)
         <li><a href="${relativePath}/jdo/orm/many_to_one.html">N-to-1 Relations</a></li>
         <li><a href="${relativePath}/jdo/orm/many_to_many.html">M-to-N Relations</a></li>
         <li><a href="${relativePath}/jdo/orm/cascading.html">Cascading</a></li>
-        <li><a href="${relativePath}/orm_relationships.html">ORM Relationships</a></li>
       </ul></li>
       <li><a class="dir" href="${relativePath}/jdo/metadata.html">MetaData Reference</a>
       <ul>
@@ -581,7 +580,6 @@ function loadPage(list)
         <li><a href="${relativePath}/jpa/orm/many_to_one.html">N-to-1 Relations</a></li>
         <li><a href="${relativePath}/jpa/orm/many_to_many.html">M-to-N Relations</a></li>
         <li><a href="${relativePath}/jpa/orm/cascading.html">Cascading</a></li>
-        <li><a href="${relativePath}/orm_relationships.html">ORM Relationships</a></li>
       </ul></li>
       <li><a class="dir" href="${relativePath}/jpa/metadata.html">MetaData Reference</a>
       <ul>
