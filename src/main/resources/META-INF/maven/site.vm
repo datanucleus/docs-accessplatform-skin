@@ -650,6 +650,7 @@ function loadPage(list)
     </ul></li>
   </ul></li>
   <li><a href="${relativePath}/rest/api.html">REST API</a></li>
+  <li><a href="${relativePath}/extensions/index.html">Extensions</a></li>
 </ul>
           </td>
         </tr>
