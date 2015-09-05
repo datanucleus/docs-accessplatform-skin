@@ -639,13 +639,13 @@ function loadPage(list)
     </ul></li>
     <li><a class="dir" href="${relativePath}/jpa/samples/index.html">Samples</a>
     <ul>
-      <li><a href="${relativePath}/jpa/guides/tutorial_rdbms.html">Tutorial with RDBMS</a></li>
-      <li><a href="${relativePath}/jpa/guides/tutorial_odf.html">Tutorial with ODF</a></li>
-      <li><a href="${relativePath}/jpa/guides/tutorial_excel.html">Tutorial with Excel</a></li>
-      <li><a href="${relativePath}/jpa/guides/tutorial_mongodb.html">Tutorial with MongoDB</a></li>
-      <li><a href="${relativePath}/jpa/guides/tutorial_hbase.html">Tutorial with HBase</a></li>
-      <li><a href="${relativePath}/jpa/guides/tutorial_neo4j.html">Tutorial with Neo4J</a></li>
-      <li><a href="${relativePath}/jpa/guides/tutorial_cassandra.html">Tutorial with Cassandra</a></li>
+      <li><a href="${relativePath}/jpa/samples/tutorial_rdbms.html">Tutorial with RDBMS</a></li>
+      <li><a href="${relativePath}/jpa/samples/tutorial_odf.html">Tutorial with ODF</a></li>
+      <li><a href="${relativePath}/jpa/samples/tutorial_excel.html">Tutorial with Excel</a></li>
+      <li><a href="${relativePath}/jpa/samples/tutorial_mongodb.html">Tutorial with MongoDB</a></li>
+      <li><a href="${relativePath}/jpa/samples/tutorial_hbase.html">Tutorial with HBase</a></li>
+      <li><a href="${relativePath}/jpa/samples/tutorial_neo4j.html">Tutorial with Neo4J</a></li>
+      <li><a href="${relativePath}/jpa/samples/tutorial_cassandra.html">Tutorial with Cassandra</a></li>
       <li><a href="http://www.theserverside.com/tutorial/Slingshot-Yourself-Into-DataNucleus-21-and-JPA-20-with-this-Tutorial-for-RDBMS">JPA Tutorial (TheServerSide)</a></li>
     </ul></li>
   </ul></li>
