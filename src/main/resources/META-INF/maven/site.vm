@@ -460,7 +460,6 @@ function loadPage(list)
         <li><a class="dir" href="${relativePath}/jdo/orm/one_to_many.html">1-to-N Relations</a>
         <ul>
           <li><a href="${relativePath}/jdo/orm/one_to_many_collection.html">Collections</a></li>
-          <li><a href="${relativePath}/jdo/orm/one_to_many_set.html">Sets</a></li>
           <li><a href="${relativePath}/jdo/orm/one_to_many_list.html">Lists</a></li>
           <li><a href="${relativePath}/jdo/orm/one_to_many_map.html">Maps</a></li>
         </ul></li>
@@ -573,7 +572,6 @@ function loadPage(list)
         <li><a class="dir" href="${relativePath}/jpa/orm/one_to_many.html">1-to-N Relations</a>
         <ul>
           <li><a href="${relativePath}/jpa/orm/one_to_many_collection.html">Collections</a></li>
-          <li><a href="${relativePath}/jpa/orm/one_to_many_set.html">Sets</a></li>
           <li><a href="${relativePath}/jpa/orm/one_to_many_list.html">Lists</a></li>
           <li><a href="${relativePath}/jpa/orm/one_to_many_map.html">Maps</a></li>
         </ul></li>
