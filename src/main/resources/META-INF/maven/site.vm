@@ -409,6 +409,7 @@ function loadPage(list)
       <li><a href="${relativePath}/datastores/rdbms_query.html">Queries</a></li>
       <li><a href="${relativePath}/datastores/rdbms_jdoql_spatial_methods.html">JDOQL : Spatial Methods</a></li>
       <li><a href="${relativePath}/datastores/rdbms_statement_batching.html">Statement Batching</a></li>
+      <li><a href="${relativePath}/datastores/rdbms_views.html">Views</a></li>
       <li><a href="${relativePath}/datastores/rdbms_datastore_schema_api.html">Datastore API</a></li>
     </ul></li>
     <li><a href="${relativePath}/datastores/odf.html">ODF</a></li>
