@@ -404,7 +404,6 @@ function loadPage(list)
     <li><a class="dir" href="${relativePath}/datastores/rdbms.html">RDBMS</a>
     <ul>
       <li><a href="${relativePath}/datastores/rdbms_spatial_types.html">Java Types (Spatial)</a></li>
-      <li><a href="${relativePath}/datastores/rdbms_datastore_types.html">Datastore Types</a></li>
       <li><a href="${relativePath}/datastores/rdbms_failover.html">Failover</a></li>
       <li><a href="${relativePath}/datastores/rdbms_query.html">Queries</a></li>
       <li><a href="${relativePath}/datastores/rdbms_jdoql_spatial_methods.html">JDOQL : Spatial Methods</a></li>
