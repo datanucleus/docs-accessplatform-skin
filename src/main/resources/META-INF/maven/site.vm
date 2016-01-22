@@ -445,6 +445,7 @@ function loadPage(list)
       <li><a class="dir" href="${relativePath}/jdo/fields_properties.html">Fields/Properties</a>
       <ul>
         <li><a href="${relativePath}/jdo/types.html">Java Types</a></li>
+        <li><a href="${relativePath}/jdo/types_geospatial.html">Java Types (Geospatial)</a></li>
         <li><a href="${relativePath}/jdo/value_generation.html">Value Generation</a></li>
         <li><a href="${relativePath}/jdo/sequences.html">Sequences</a></li>
         <li><a href="${relativePath}/jdo/orm/embedded.html">Embedded Fields</a></li>
@@ -504,6 +505,7 @@ function loadPage(list)
     <ul>
       <li><a href="${relativePath}/jdo/query_cache.html">Query Cache</a></li>
       <li><a href="${relativePath}/jdo/jdoql.html">JDOQL</a></li>
+      <li><a href="${relativePath}/jdo/jdoql_geospatial_methods.html">JDOQL Geospatial Methods</a></li>
       <li><a href="${relativePath}/jdo/jdoql_declarative.html">JDOQL Declarative API</a></li>
       <li><a href="${relativePath}/jdo/jdoql_typesafe.html">JDOQL Typesafe API</a></li>
       <li><a href="${relativePath}/jdo/sql.html">SQL</a></li>
@@ -558,6 +560,7 @@ function loadPage(list)
       <li><a class="dir" href="${relativePath}/jpa/fields_properties.html">Fields/Properties</a>
       <ul>
         <li><a href="${relativePath}/jpa/types.html">Java Types</a></li>
+        <li><a href="${relativePath}/jpa/types_geospatial.html">Java Types (Geospatial)</a></li>
         <li><a href="${relativePath}/jpa/value_generation.html">Value Generation</a></li>
         <li><a href="${relativePath}/jpa/orm/embedded.html">Embedded Fields</a></li>
         <li><a href="${relativePath}/jpa/orm/serialised.html">Serialised Fields</a></li>
@@ -610,6 +613,7 @@ function loadPage(list)
     <ul>
       <li><a href="${relativePath}/jpa/query_cache.html">Query Cache</a></li>
       <li><a href="${relativePath}/jpa/jpql.html">JPQL Query</a></li>
+      <li><a href="${relativePath}/jpa/jpql_geospatial_functions.html">JPQL Geospatial Functions</a></li>
       <li><a href="${relativePath}/jpa/jpql_criteria.html">JPQL Criteria</a></li>
       <li><a href="${relativePath}/jpa/native_query.html">Native Query</a></li>
       <li><a href="${relativePath}/jpa/stored_procedures.html">Stored Procedures</a></li>
