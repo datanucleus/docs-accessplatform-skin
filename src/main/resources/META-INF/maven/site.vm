@@ -454,12 +454,9 @@ function loadPage(list)
         <li><a href="${relativePath}/jdo/orm/objects.html">Object Fields</a></li>
         <li><a href="${relativePath}/jdo/orm/arrays.html">Array Fields</a></li>
         <li><a href="${relativePath}/jdo/orm/one_to_one.html">1-to-1 Relations</a></li>
-        <li><a class="dir" href="${relativePath}/jdo/orm/one_to_many.html">1-to-N Relations</a>
-        <ul>
-          <li><a href="${relativePath}/jdo/orm/one_to_many_collection.html">Collections</a></li>
-          <li><a href="${relativePath}/jdo/orm/one_to_many_list.html">Lists</a></li>
-          <li><a href="${relativePath}/jdo/orm/one_to_many_map.html">Maps</a></li>
-        </ul></li>
+        <li><a href="${relativePath}/jdo/orm/one_to_many_collection.html">1-to-N Collections</a></li>
+        <li><a href="${relativePath}/jdo/orm/one_to_many_list.html">1-to-N Lists</a></li>
+        <li><a href="${relativePath}/jdo/orm/one_to_many_map.html">1-to-N Maps</a></li>
         <li><a href="${relativePath}/jdo/orm/many_to_one.html">N-to-1 Relations</a></li>
         <li><a href="${relativePath}/jdo/orm/many_to_many.html">M-to-N Relations</a></li>
         <li><a href="${relativePath}/jdo/orm/cascading.html">Cascading</a></li>
@@ -568,12 +565,9 @@ function loadPage(list)
         <li><a href="${relativePath}/jpa/orm/objects.html">Object Fields</a></li>
         <li><a href="${relativePath}/jpa/orm/arrays.html">Array Fields</a></li>
         <li><a href="${relativePath}/jpa/orm/one_to_one.html">1-to-1 Relations</a></li>
-        <li><a class="dir" href="${relativePath}/jpa/orm/one_to_many.html">1-to-N Relations</a>
-        <ul>
-          <li><a href="${relativePath}/jpa/orm/one_to_many_collection.html">Collections</a></li>
-          <li><a href="${relativePath}/jpa/orm/one_to_many_list.html">Lists</a></li>
-          <li><a href="${relativePath}/jpa/orm/one_to_many_map.html">Maps</a></li>
-        </ul></li>
+        <li><a href="${relativePath}/jpa/orm/one_to_many_collection.html">1-to-N Collections</a></li>
+        <li><a href="${relativePath}/jpa/orm/one_to_many_list.html">1-to-N Lists</a></li>
+        <li><a href="${relativePath}/jpa/orm/one_to_many_map.html">1-to-N Maps</a></li>
         <li><a href="${relativePath}/jpa/orm/many_to_one.html">N-to-1 Relations</a></li>
         <li><a href="${relativePath}/jpa/orm/many_to_many.html">M-to-N Relations</a></li>
         <li><a href="${relativePath}/jpa/orm/cascading.html">Cascading</a></li>
