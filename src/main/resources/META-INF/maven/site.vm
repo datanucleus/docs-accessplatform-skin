@@ -419,13 +419,7 @@ function loadPage(list)
     <li><a href="${relativePath}/datastores/json.html">JSON</a></li>
     <li><a href="${relativePath}/datastores/amazons3.html">Amazon S3</a></li>
     <li><a href="${relativePath}/datastores/googlestorage.html">GoogleStorage</a></li>
-    <li><a class="dir" href="${relativePath}/datastores/ldap.html">LDAP</a>
-    <ul>
-      <li><a href="${relativePath}/datastores/ldap_dn.html">Relations by DN</a></li>
-      <li><a href="${relativePath}/datastores/ldap_attribute.html">Relations by Attribute</a></li>
-      <li><a href="${relativePath}/datastores/ldap_hierarchical.html">Relations by Hierarchy</a></li>
-      <li><a href="${relativePath}/datastores/ldap_embedded.html">Embedded Objects</a></li>
-    </ul></li>
+    <li><a href="${relativePath}/datastores/ldap.html">LDAP</a></li>
     <li><a href="${relativePath}/datastores/neodatis.html">NeoDatis</a></li>
   </ul></li>
   <li><a class="dir" href="${relativePath}/jdo/api.html">JDO API</a>
