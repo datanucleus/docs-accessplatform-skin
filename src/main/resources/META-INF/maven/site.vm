@@ -403,7 +403,6 @@ function loadPage(list)
     <li><a class="dir" href="${relativePath}/datastores/rdbms.html">RDBMS</a>
     <ul>
       <li><a href="${relativePath}/datastores/rdbms_failover.html">Failover</a></li>
-      <li><a href="${relativePath}/datastores/rdbms_query.html">Queries</a></li>
       <li><a href="${relativePath}/datastores/rdbms_statement_batching.html">Statement Batching</a></li>
       <li><a href="${relativePath}/datastores/rdbms_datastore_schema_api.html">Datastore API</a></li>
     </ul></li>
