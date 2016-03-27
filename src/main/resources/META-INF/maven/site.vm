@@ -542,6 +542,7 @@ function loadPage(list)
       <ul>
         <li><a href="${relativePath}/jpa/application_identity.html">Application Identity</a></li>
         <li><a href="${relativePath}/jpa/datastore_identity.html">Datastore Identity</a></li>
+        <li><a href="${relativePath}/jpa/nondurable_identity.html">Nondurable Identity</a></li>
         <li><a href="${relativePath}/jpa/orm/compound_identity.html">Compound Identity</a></li>
       </ul></li>
       <li><a href="${relativePath}/jpa/versioning.html">Versioning</a></li>
