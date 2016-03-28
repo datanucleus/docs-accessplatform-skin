@@ -400,12 +400,7 @@ function loadPage(list)
   <li><a class="dir" href="${relativePath}/datastores/index.html">Datastore</a>
   <ul>
     <li><a href="${relativePath}/datastores/datastore_features.html">Supported Features</a></li>
-    <li><a class="dir" href="${relativePath}/datastores/rdbms.html">RDBMS</a>
-    <ul>
-      <li><a href="${relativePath}/datastores/rdbms_failover.html">Failover</a></li>
-      <li><a href="${relativePath}/datastores/rdbms_statement_batching.html">Statement Batching</a></li>
-      <li><a href="${relativePath}/datastores/rdbms_datastore_schema_api.html">Datastore API</a></li>
-    </ul></li>
+    <li><a href="${relativePath}/datastores/rdbms.html">RDBMS</a></li>
     <li><a href="${relativePath}/datastores/odf.html">ODF</a></li>
     <li><a href="${relativePath}/datastores/excel.html">Excel (XLS)</a></li>
     <li><a href="${relativePath}/datastores/ooxml.html">Excel (OOXML)</a></li>
