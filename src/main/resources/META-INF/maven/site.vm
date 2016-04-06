@@ -647,7 +647,7 @@ function loadPage(list)
       <hr/>
     </div>
     <div id="footer">
-        &#169;#copyright() <a href="http://www.datanucleus.org/project/license.html">DataNucleus</a>. All Rights Reserved.
+        &#169;#copyright() <a href="http://www.datanucleus.org/documentation/license.html">DataNucleus</a>. All Rights Reserved.
     </div>
   </body>
 </html>
