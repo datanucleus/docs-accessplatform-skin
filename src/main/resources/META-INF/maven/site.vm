@@ -432,7 +432,6 @@ function loadPage(list)
       <li><a class="dir" href="${relativePath}/jdo/fields_properties.html">Fields/Properties</a>
       <ul>
         <li><a href="${relativePath}/jdo/types.html">Java Types</a></li>
-        <li><a href="${relativePath}/jdo/types_geospatial.html">Java Types (Geospatial)</a></li>
         <li><a href="${relativePath}/jdo/value_generation.html">Value Generation</a></li>
         <li><a href="${relativePath}/jdo/sequences.html">Sequences</a></li>
         <li><a href="${relativePath}/jdo/orm/embedded.html">Embedded Fields</a></li>
@@ -545,7 +544,6 @@ function loadPage(list)
       <li><a class="dir" href="${relativePath}/jpa/fields_properties.html">Fields/Properties</a>
       <ul>
         <li><a href="${relativePath}/jpa/types.html">Java Types</a></li>
-        <li><a href="${relativePath}/jpa/types_geospatial.html">Java Types (Geospatial)</a></li>
         <li><a href="${relativePath}/jpa/value_generation.html">Value Generation</a></li>
         <li><a href="${relativePath}/jpa/orm/embedded.html">Embedded Fields</a></li>
         <li><a href="${relativePath}/jpa/orm/serialised.html">Serialised Fields</a></li>
