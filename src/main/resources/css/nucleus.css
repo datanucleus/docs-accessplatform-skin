@@ -236,7 +236,7 @@ table.bodyTable tr.d
 table.infoTable
 {
     background-color: #fde47f;
-    border: 1px solid #999;
+    border: 1px solid #c3aa47;
     margin-top: 2px;
     margin-bottom: 2px;
 }
@@ -260,6 +260,39 @@ table.infoTable tr.a
     margin: 0px;
 }
 table.infoTable tr.b
+{
+    background-color: #ceeae5;
+    border: 0px;
+    margin: 0px;
+}
+
+table.datastoreTable
+{
+    background-color: #d4ffa1;
+    border: 1px solid #709346;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+table.datastoreTable th
+{
+    color: black;
+    background-color: #fff;
+    text-align: left;
+    font-weight: bold;
+    border: 0px;
+    margin: 0px;
+}
+table.datastoreTable th, table.datastoreTable td
+{
+    font-size: small;
+}
+table.datastoreTable tr.a
+{
+    background-color: #d4ffa1;
+    border: 0px;
+    margin: 0px;
+}
+table.datastoreTable tr.b
 {
     background-color: #ceeae5;
     border: 0px;
