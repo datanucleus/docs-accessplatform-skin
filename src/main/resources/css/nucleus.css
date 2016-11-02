@@ -49,50 +49,6 @@ img
     border:none;
 }
 
-table 
-{
-    padding:0px;
-    width: 100%;
-}
-
-TABLE.header
-{
-  cellpadding: 0px;
-  cellspacing: 0px;
-  border: 0px;
-}
-
-TD.header
-{
-  cellpadding: 0px;
-  cellspacing: 0px;
-  border: 0px;
-}
-
-TH
-{
-    color: #74a3db;
-}
-
-TABLE.body
-{
-    border-color: #dadada;
-    border-style: solid;
-    border-collapse: collapse;
-    padding:0px;
-    width: 100%;
-}
-
-TD.footer
-{
-    color: #74a3db;
-    font-size: x-small;
-    text-align: center;
-}
-
-td.on {background:#9c9;}
-th.on {background:#9c9;}
-
 .section
 {
     padding: 4px;
@@ -194,13 +150,51 @@ li
 
 
 /** Table formatting. */
+table 
+{
+    padding:0px;
+    width: 100%;
+}
+TABLE.header
+{
+  cellpadding: 0px;
+  cellspacing: 0px;
+  border: 0px;
+}
+TD.header
+{
+  cellpadding: 0px;
+  cellspacing: 0px;
+  border: 0px;
+}
+TH
+{
+    color: #74a3db;
+}
+TABLE.body
+{
+    border-color: #dadada;
+    border-style: solid;
+    border-collapse: collapse;
+    padding:0px;
+    width: 100%;
+}
+TD.footer
+{
+    color: #74a3db;
+    font-size: x-small;
+    text-align: center;
+}
+
+td.on {background:#9c9;}
+th.on {background:#9c9;}
+
 table.bodyTable
 {
     border: 1px solid #999;
     margin-top: 2px;
     margin-bottom: 2px;
 }
-
 table.bodyTable th
 {
     color: black;
@@ -210,36 +204,64 @@ table.bodyTable th
     border: 0px;
     margin: 0px;
 }
-
 table.bodyTable th, table.bodyTable td
 {
     font-size: small;
 }
-
 table.bodyTable tr.a
 {
     background-color: #e2f8f4;
     border: 0px;
     margin: 0px;
 }
-
 table.bodyTable tr.b
 {
     background-color: #ceeae5;
     border: 0px;
     margin: 0px;
 }
-
 table.bodyTable tr.c
 {
     background-color: #aceda9;
     border: 0px;
     margin: 0px;
 }
-
 table.bodyTable tr.d
 {
     background-color: #93e9f9;
+    border: 0px;
+    margin: 0px;
+}
+
+table.infoTable
+{
+    background-color: #fde47f;
+    border: 1px solid #999;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+table.infoTable th
+{
+    color: black;
+    background-color: #fff;
+    text-align: left;
+    font-weight: bold;
+    border: 0px;
+    margin: 0px;
+}
+table.infoTable th, table.infoTable td
+{
+    font-size: small;
+}
+table.infoTable tr.a
+{
+    background-color: #fde47f;
+    border: 0px;
+    margin: 0px;
+}
+table.infoTable tr.b
+{
+    background-color: #ceeae5;
     border: 0px;
     margin: 0px;
 }
@@ -251,14 +273,12 @@ table.bodyTable tr.d
     padding: 4px 4px 4px 4px;
     color: #000;
 }
-    
 .table1c
 {
     background-color: #ffffff;
     border: 1px solid #999;
     color: #000;
 }
-    
 .table2
 {
     text-align: left;
@@ -273,7 +293,6 @@ table.bodyTable tr.d
     padding: 4px 4px 4px 6px;
     color: #000;
 }
-    
 .table2c
 {
     text-align: left;
@@ -288,19 +307,18 @@ table.bodyTable tr.d
     color: #000;
 }
 
+/** Header (section/subsection). */
 #header 
 {
   padding: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
 }
-
 #header img 
 {
   border: none;
 }
 
-/** Header (section/subsection). */
 .header2
 {
     text-align: left;
