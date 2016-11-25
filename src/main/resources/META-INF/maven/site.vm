@@ -428,6 +428,7 @@ function loadPage(list)
         <li><a href="${relativePath}/jdo/orm/compound_identity.html">Compound Identity</a></li>
       </ul></li>
       <li><a href="${relativePath}/jdo/versioning.html">Versioning</a></li>
+      <li><a href="${relativePath}/jdo/auditing.html">Auditing</a></li>
       <li><a href="${relativePath}/jdo/orm/inheritance.html">Inheritance</a></li>
       <li><a class="dir" href="${relativePath}/jdo/fields_properties.html">Fields/Properties</a>
       <ul>
@@ -540,6 +541,7 @@ function loadPage(list)
         <li><a href="${relativePath}/jpa/orm/derived_identity.html">Derived Identity</a></li>
       </ul></li>
       <li><a href="${relativePath}/jpa/versioning.html">Versioning</a></li>
+      <li><a href="${relativePath}/jpa/auditing.html">Auditing</a></li>
       <li><a href="${relativePath}/jpa/orm/inheritance.html">Inheritance</a></li>
       <li><a class="dir" href="${relativePath}/jpa/fields_properties.html">Fields/Properties</a>
       <ul>
