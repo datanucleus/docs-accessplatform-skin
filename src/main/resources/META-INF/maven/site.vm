@@ -317,8 +317,7 @@ function loadPage(list)
               <a href="http://www.datanucleus.org"><img src="http://www.datanucleus.org/images/logos/DataNucleus_70.png" WIDTH="285" HEIGHT="65" BORDER="0"/></a>
           </td>
 
-          <td valign="top" width="100%">
-          </td>
+          <td valign="top" width="100%"/>
           <td valign="top" width="137" height="30">
               <a href="http://www.datanucleus.org/documentation/index.html"><img src="http://www.datanucleus.org/images/navigation/nav_documentation.png" border="0"/></a>
           </td>
@@ -331,9 +330,9 @@ function loadPage(list)
           <td valign="top" width="113" height="30">
               <a href="https://github.com/datanucleus"><img src="http://www.datanucleus.org/images/navigation/nav_sourcecode.png" border="0"/></a>
           </td>
-          <td valign="top" width="66" height="30">
+          <!--td valign="top" width="66" height="30">
               <a href="http://www.datanucleus.org/documentation/development/issues.html"><img src="http://www.datanucleus.org/images/navigation/nav_issues.png" border="0"/></a>
-          </td>
+          </td-->
           <td valign="top" width="56" height="30">
               <a href="http://datanucleus.wordpress.com"><img src="http://www.datanucleus.org/images/navigation/nav_blog.png" border="0"/></a>
           </td>
@@ -347,7 +346,7 @@ function loadPage(list)
             <input type="submit" value="Search Docs"/>
             </form>
           </td>
-          <td colspan="4" valign="middle" align="right" nowrap="true">
+          <td colspan="3" valign="middle" align="right" nowrap="true">
             <form>Quick Link
             <select name="quickLink" onChange="loadPage(this.form.elements[0])" target="_parent._top" onmouseclick="this.focus()" method="POST">
             <option value="http://www.datanucleus.org"></option>
