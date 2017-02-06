@@ -614,7 +614,6 @@ function loadPage(list)
       <li><a href="${relativePath}/jpa/guides/idea.html">IDEA with DataNucleus</a></li>
       <li><a href="${relativePath}/jpa/guides/netbeans.html">Netbeans with DataNucleus</a></li>
       <li><a href="${relativePath}/jpa/guides/eclipse_dali.html">Eclipse Dali</a></li>
-      <li><a href="${relativePath}/jpa/guides/tomee.html">TomEE and DataNucleus</a></li>
     </ul></li>
     <li><a class="dir" href="${relativePath}/jpa/samples/index.html">Samples</a>
     <ul>
