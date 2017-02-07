@@ -412,7 +412,6 @@ function loadPage(list)
     <li><a href="${relativePath}/datastores/amazons3.html">Amazon S3</a></li>
     <li><a href="${relativePath}/datastores/googlestorage.html">GoogleStorage</a></li>
     <li><a href="${relativePath}/datastores/ldap.html">LDAP</a></li>
-    <li><a href="${relativePath}/datastores/neodatis.html">NeoDatis</a></li>
   </ul></li>
   <li><a class="dir" href="${relativePath}/jdo/api.html">JDO API</a>
   <ul>
