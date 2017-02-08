@@ -391,7 +391,6 @@ function loadPage(list)
     <li><a href="${relativePath}/whats_new.html">What's New ?</a></li>
     <li><a href="${relativePath}/migration.html">Upgrade Migration</a></li>
     <li><a href="${relativePath}/getting_started.html">Getting Started</a></li>
-    <li><a href="${relativePath}/dependencies.html">Dependencies</a></li>
     <li><a href="${relativePath}/persistence_api.html">Persistence API Choice</a></li>
     <li><a href="${relativePath}/development_process.html">Development Process</a></li>
     <li><a href="${relativePath}/compatibility.html">Compatibility</a></li>
